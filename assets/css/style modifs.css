@@ -1,0 +1,93 @@
+::-moz-selection{ /*@bugfix mozilla*/
+    background: orange; /* REMPLACER PAR LA COULEUR DÉSIRÉE*/
+    color: #fff;
+}
+::selection{ /* effet souris  */
+    background: orange; /* REMPLACER PAR LA COULEUR DÉSIRÉE*/
+    color: #fff;
+}
+#particles-js{
+	opacity: 0.5;
+}
+.social-media{
+	list-style:none;
+	padding:0;
+	margin:0;
+}
+.social-buttons{
+	display:inline;
+	margin-right:1em;
+}
+.social-buttons a{
+	color:white;
+}
+.social-buttons a:hover{
+	color:#02a8f4;
+}
+.content-team{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.team-single{
+text-align:center;
+max-width: 350px;
+margin:0 1% 4% 1%;	
+}
+.team-single h4 {
+	margin-bottom:2em;
+}
+.team-single p {
+	margin-top:1em;
+	padding:1em;
+}
+#about-us{
+	padding:100px 0;
+}
+.team-single .social-media-profile a{
+	color:#2C4049;
+	width:100%;
+}
+#contener-slider{
+	display:flex;
+}
+.team{
+	font-weight: 500;
+}
+.team strong{
+	color:#02a8f4;
+	font-size: 1.03em;
+}
+.team-single .social-media-profile{
+	padding:0;
+	margin:0;
+	width:40%;
+	margin:auto;
+	display:flex;
+	justify-content: space-between;
+}
+.team-single .social-buttons{
+	display:inline;
+	margin-right:0em;
+	font-size: 1.5em;
+}
+.team-single .social-buttons :hover{
+color:#02a8f4;
+}
+.testimonial-item-img img{
+	float:left;
+	min-width:70px;
+	margin:20px;
+}
+#contener-partners{
+	display:flex;
+	justify-content: center;
+	flex-wrap:wrap;
+}
+.readmore{
+	padding:10% 0 5% 0;
+}
+#contacts h2, #contacts p, #contacts h6{
+	color:#DEE3E8;
+}
