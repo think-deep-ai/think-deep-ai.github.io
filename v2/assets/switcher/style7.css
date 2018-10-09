@@ -1,0 +1,54 @@
+#style-switcher h2 a {
+    background: #3065B5 none repeat scroll 0 0
+}
+
+.slider-title h2 span, .about-content h2, .special-single-content i, .special-single-content:hover a.btn-service, .item-open a.btn-service, .special-item .owl-nav div, .protfolio-link-bt, .counter-data h2, .testimonial-contact h5 span, .signl-blog-meta a i, .sigle-blog-readmore-btn, a:focus, #scrollup, .protfolio-link-bt:hover, a{
+    color: #3065B5;
+}
+a.btn.btn-normal, .item-open i {
+	color: #fff;
+}
+.slider-active .owl-nav div, a:hover.btn.btn-normal-border, .slider-active .owl-dot, a.btn.btn-normal, a:hover.btn.btn-color, .section-title::after, .section-title::before, .border-style::after, .special-single-content:hover, .item-open, ul.portfolio li.active, ul.portfolio li:hover, .portfolio-caption, .single-counter:hover .counter-icon, .testimonial-item-single i, .testimonial-item .owl-dot.active, .active .single-pricing-data, .blog-data, .sigle-blog-readmore-btn:hover, .contact-form .contact-btn:hover {
+    background: #3065B5;
+}
+a:hover.btn.btn-normal-border, a:hover.btn.btn-color, .border-style, .special-item .owl-nav div, ul.portfolio li.active, ul.portfolio li:hover, .single-counter:hover .counter-icon, .single-team-item:hover, .testimonial-item-single i, .sigle-blog-readmore-btn, .contact-form .contact-btn:hover, #scrollup, .testimonial-item-img img {
+    border: 1px solid #3065B5;
+}
+.about-content h2::after{
+    border-bottom: 2px solid #3065B5;
+}
+.special-single-content i{
+    border: 2px solid #3065B5;
+}
+.pricing .active {
+    border-bottom: 5px solid #3065B5;
+}
+.sticky.navbar-default {
+    background-color: #3065B5 !important;
+}
+.item-open i {
+    border: 2px solid #fff;
+}
+.single-team-item:hover a.team-link{
+	background: rgba(48, 101, 181, 0.65);
+}
+.pricing .active h4 {
+    background: #3471cc;
+}
+
+.comment-submit,.widget.widget-ads, .widget.tags a:hover, .post-date, .post-readmore-btn:hover, .pagination > .active > a, .pagination > .active > a:focus, .pagination > .active > a:hover, .pagination > .active > span, .pagination > .active > span:focus, .pagination > .active > span:hover, .pagination > li > a:hover{
+	background: #3065B5;
+}
+.post-readmore-btn{
+	border: 1px solid #3065B5;
+}
+.comment-submit:hover, .post-tags a:hover, a:hover.btn.ads-button {
+    background-color: #3471cc;
+}
+.widget.categories ul li a:hover, .widget.categories ul li a:hover:before,.post-meta a:hover{
+	color:#3471cc;
+}
+
+.pagination > .active > a, .pagination > .active > a:focus, .pagination > .active > a:hover, .pagination > .active > span, .pagination > .active > span:focus, .pagination > .active > span:hover{
+	border-color: #3471cc;
+}
