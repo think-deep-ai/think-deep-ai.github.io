@@ -9,6 +9,10 @@
 #particles-js{
 	opacity: 0.5;
 }
+
+#cd-words-wrapper{
+	background-color:#02a8f4;
+}
 .social-media{
 	list-style:none;
 	padding:0;
