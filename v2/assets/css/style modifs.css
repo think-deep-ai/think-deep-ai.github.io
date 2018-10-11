@@ -21,6 +21,7 @@
 .social-buttons{
 	display:inline;
 	margin-right:1em;
+	font-weight : bold;
 }
 .social-buttons a{
 	color:white;
