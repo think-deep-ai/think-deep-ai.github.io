@@ -956,12 +956,12 @@ a.btn-service {
 
 .special-item .owl-nav div.owl-next {
 	left: auto;
-	right: -50px;
+	right: -100px;
 }
 
 .special-item .owl-nav div.owl-prev {
 	right: auto;
-	left: -50px;
+	left: -100px;
 }
 
 
