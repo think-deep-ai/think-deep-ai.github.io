@@ -135,6 +135,7 @@ color:#02a8f4;
 	max-width:70%;
 	margin: 20px auto;
 	align-items:center;
+	/*flex-wrap: wrap;*/
 
 }
 
