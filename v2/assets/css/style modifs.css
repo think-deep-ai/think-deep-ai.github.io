@@ -85,6 +85,12 @@ color:#02a8f4;
 	min-width:70px;
 	margin:20px;
 }
+.testimonial-item-img img:hover{
+	border:solid #02a8f4 10px;
+	border-radius:100%;
+}
+
+
 #contener-partners{
 	display:flex;
 	justify-content: center;
@@ -120,16 +126,25 @@ color:#02a8f4;
 
 
 .white-popup {
-  position: relative;
-  background: #FFF;
-  width: auto;
-  max-width: 500px;
-  margin: 20px auto;
+	display:flex;
+	height:25em;
+	justify-content:center;
+	position: relative;
+	background: #FFF;
+	width: auto;
+	max-width:70%;
+	margin: 20px auto;
+	align-items:center;
+
 }
 
 .white-popup p{
-	text-align: center;
-	padding:10px 0 10px 0;
+	text-align:justify;
+	padding:3em;
+	background-color:white;
+	max-height: 25em;
 }
 .white-popup img{
+	object-fit: cover;
+	height:100%;
 }
