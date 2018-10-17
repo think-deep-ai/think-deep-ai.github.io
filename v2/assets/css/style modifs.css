@@ -6,6 +6,15 @@
     background: orange; /* REMPLACER PAR LA COULEUR DÉSIRÉE*/
     color: #fff;
 }
+.preloader-area{
+	background-color:#fbfbfb;
+	display:flex;
+
+}
+.imgcenter{
+	max-width:200px;
+	margin:auto;
+}
 #particles-js{
 	opacity: 0.5;
 }
