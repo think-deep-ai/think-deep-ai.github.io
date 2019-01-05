@@ -56,7 +56,7 @@ margin:0 1% 80px 1%;
 	margin-top:1em;
 	padding:1em;
 }
-#about-us{
+#artificial-intelligence{
 	padding:100px 0;
 }
 .team-single .social-media-profile a{
@@ -97,7 +97,7 @@ color:#02a8f4;
 	border:solid #02a8f4 1px;
 }
 .testimonial-item-img img:hover{
-	border:solid #02a8f4 10px;
+	border:solid #02a8f4 5px;
 	border-radius:100%;
 	transition : all 0.1s;
 }

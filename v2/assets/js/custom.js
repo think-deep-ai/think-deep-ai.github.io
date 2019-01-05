@@ -72,6 +72,34 @@
 			}
 		});
 
+				/*~-~-~- AI Carousel ~-~-~- */
+
+				$(".ai-item").owlCarousel({
+					items: 6,
+					loop: false,
+					animateOut: 'fadeOut',
+					animateIn: 'fadeIn',
+					responsiveClass: true,
+					nav: true,
+					autoplayTimeout: 5000,
+					navText: ['<i class="fa fa-angle-left"></i>', '<i class="fa fa-angle-right"></i>'],
+					autoplay: false,
+					margin: 30,
+		
+					responsive: {
+						0: {
+							items: 1
+						},
+						600: {
+							items: 3
+						},
+						1000: {
+							items: 6
+		
+						}
+					}
+				});
+
 		/*~-~-~- special Carousel ~-~-~- */
 
 		$(".special-item").owlCarousel({
